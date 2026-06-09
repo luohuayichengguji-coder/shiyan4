@@ -1,0 +1,10 @@
+﻿指标,定义/含义,适用场景,注意事项
+Dice,2|P∩G|/(|P|+|G|)，衡量 mask 重叠；医学分割常用。,病灶/血管/器官分割,小病灶下对少量像素误差极敏感。
+IoU/Jaccard,|P∩G|/|P∪G|，重叠区域占并集比例。,通用分割、SAM 评估,比 Dice 更严格。
+AUC,ROC 曲线下面积，衡量阈值无关分类/检测能力。,DR 筛查、病灶像素/图像级检测,类别极不平衡时应补充 AUPR。
+Sensitivity/Recall,TP/(TP+FN)，衡量漏检控制能力。,筛查、小病灶召回,本课题应优先关注 MA/HE 小病灶召回。
+Specificity,TN/(TN+FP)，衡量假阳性控制能力。,临床筛查/分类,需要与 sensitivity 同时报出。
+Precision/F1,Precision=TP/(TP+FP)，F1=2PR/(P+R)。,病灶检测/分割二值化结果,病灶很稀疏时 F1/AUPR 比 accuracy 更有意义。
+AUPR/AP,Precision-Recall 曲线面积或平均精度。,微动脉瘤、出血等稀疏病灶,比 AUC 更能反映正类稀少场景。
+PSNR/SSIM/LPIPS,图像增强/超分常用保真、结构相似和感知质量指标。,低质量眼底增强,需同时报告下游分割指标，避免“增强好看但分割变差”。
+FPS/参数量/FLOPs,推理效率与模型复杂度。,SAM 蒸馏/部署,应在固定输入大小、硬件和 batch 设置下比较。

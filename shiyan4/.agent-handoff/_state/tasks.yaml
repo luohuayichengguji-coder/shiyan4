@@ -1,0 +1,60 @@
+active: []
+completed:
+- task_id: TASK-001
+  title: 完成医学图像技术调研阶段1-10交付物
+  details: 围绕基于SAM及医学图像适配方法的眼底视网膜病变/糖尿病视网膜病变病灶分割调研，完成阶段性记录、论文索引、检索记录、SOTA/数据集/指标表、研究方案、实验规划、技术报告和PPT。
+  priority: high
+  status: completed
+  created_at: '2026-06-01T01:37:59+08:00'
+  updated_at: '2026-06-01T01:37:59+08:00'
+  completed_at: '2026-06-01T01:37:59+08:00'
+  notes: 最终报告为 outputs/AI开发技术-实验4.1-医学图像技术调研报告.docx，最终PPT为 outputs/AI开发技术-实验4.1-医学图像技术调研汇报.pptx；均已生成渲染检查文件。
+- task_id: TASK-002
+  title: 补充skills审批材料文件夹
+  details: 按用户要求在项目中新建 used_skills_md，保存本次使用或参考skills的审批摘要，并复制原始SKILL.md及相关workflow/agent
+    Markdown到 source_md 子目录。
+  priority: medium
+  status: completed
+  created_at: '2026-06-01T01:37:59+08:00'
+  updated_at: '2026-06-01T01:37:59+08:00'
+  completed_at: '2026-06-01T01:37:59+08:00'
+  notes: 包含 academic-research-suite、nature-academic-search、nature-reader、technical-report-writer、nature-writing、nature-figure、nature-paper2ppt、presentations、documents
+    等材料。
+- task_id: TASK-003
+  title: 初始化并收尾agent-handoff交接状态
+  details: 使用 agent-handoff 技能在项目内初始化 .agent-handoff 运行副本，记录当前成果、决策、风险与后续续接提示。
+  priority: medium
+  status: completed
+  created_at: '2026-06-01T01:37:59+08:00'
+  updated_at: '2026-06-01T01:37:59+08:00'
+  completed_at: '2026-06-01T01:37:59+08:00'
+  notes: 本次通过 close-session 写入状态，并随后执行 validate 校验。
+- task_id: TASK-004
+  title: 恢复交接状态并完成提交前轻量核验
+  details: 执行 agent-handoff resume 与 validate，确认当前阶段为 completed、无活动待办、无阻塞；检查 outputs
+    交付清单、关键文件大小、DOCX结构、PPTX内部slide数量、DOCX/PPTX渲染PNG页数与used_skills_md材料列表。
+  priority: medium
+  status: completed
+  created_at: '2026-06-01T09:00:41+08:00'
+  updated_at: '2026-06-01T09:00:41+08:00'
+  completed_at: '2026-06-01T09:00:41+08:00'
+  notes: 当前目录不是git仓库，无法使用git status；改用文件存在性、结构打开性与交接validate进行核验。当前桌面Python可打开DOCX但缺少python-pptx，因此PPTX用zip/XML结构确认12页。
+- task_id: TASK-005
+  title: 按范例结构与样式重写最终Word报告
+  details: 模仿 基于RAG的复杂pdf智能问答系统.docx 的课程实验报告口径，将原偏论文综述结构改写为封面、实验题目及要求、环境配置、阶段一、阶段二、对比、心得体会、参考文献，并保留医学图像调研证据、图表、数据集/指标和LQ-Fundus-SAM方案。
+  priority: high
+  status: completed
+  created_at: '2026-06-01T09:36:22+08:00'
+  updated_at: '2026-06-01T09:36:22+08:00'
+  completed_at: '2026-06-01T09:36:22+08:00'
+  notes: 新增 outputs/scripts/rebuild_report_like_sample.py 可重建DOCX；当前最终报告路径仍为 outputs/AI开发技术-实验4.1-医学图像技术调研报告.docx。
+- task_id: TASK-006
+  title: 修正最终报告图表可读性问题
+  details: 重画 technical_roadmap、sota_method_map、problem_solution_map、dataset_metric_matrix、experiment_flow
+    五张图，取消穿字长箭头，统一高对比浅底色块、深色文字、边缘连接箭头，并重新嵌入最终Word报告。
+  priority: high
+  status: completed
+  created_at: '2026-06-01T10:36:12+08:00'
+  updated_at: '2026-06-01T10:36:12+08:00'
+  completed_at: '2026-06-01T10:36:12+08:00'
+  notes: 旧版SVG存在错误且未再用于报告，已归档到 outputs/figures/old_svg_backup/；新版交付图为PNG/PDF。

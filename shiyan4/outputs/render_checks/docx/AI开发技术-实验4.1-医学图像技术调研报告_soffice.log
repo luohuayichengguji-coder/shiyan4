@@ -1,0 +1,7 @@
+CMD: soffice -env:UserInstallation=file:///mnt/c/Users/VictorTau/Desktop/hj-5/outputs/render_checks/docx/lo_profile --invisible --headless --norestore --convert-to pdf --outdir /mnt/c/Users/VictorTau/Desktop/hj-5/outputs/render_checks/docx /mnt/c/Users/VictorTau/Desktop/hj-5/outputs/AI开发技术-实验4.1-医学图像技术调研报告.docx
+EXIT: 0
+STDOUT:
+convert /mnt/c/Users/VictorTau/Desktop/hj-5/outputs/AI开发技术-实验4.1-医学图像技术调研报告.docx as a Writer document -> /mnt/c/Users/VictorTau/Desktop/hj-5/outputs/render_checks/docx/AI开发技术-实验4.1-医学图像技术调研报告.pdf using filter : writer_pdf_Export
+
+STDERR:
+error : Unknown IO error

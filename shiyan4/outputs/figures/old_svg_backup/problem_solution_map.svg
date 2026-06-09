@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="628.2pt" height="347.04pt" viewBox="0 0 628.2 347.04" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-05-30T00:11:25.071579</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 347.04 
+L 628.2 347.04 
+L 628.2 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 42.8004 104.33088 
+L 217.1196 104.33088 
+Q 229.3956 104.33088 229.3956 97.67808 
+L 229.3956 59.75712 
+Q 229.3956 53.10432 217.1196 53.10432 
+L 42.8004 53.10432 
+Q 30.5244 53.10432 30.5244 59.75712 
+L 30.5244 97.67808 
+Q 30.5244 104.33088 42.8004 104.33088 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #fee2e2; stroke: #cbd5e1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 42.8004 180.83808 
+L 217.1196 180.83808 
+Q 229.3956 180.83808 229.3956 174.18528 
+L 229.3956 136.26432 
+Q 229.3956 129.61152 217.1196 129.61152 
+L 42.8004 129.61152 
+Q 30.5244 129.61152 30.5244 136.26432 
+L 30.5244 174.18528 
+Q 30.5244 180.83808 42.8004 180.83808 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #fef3c7; stroke: #cbd5e1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 42.8004 257.34528 
+L 217.1196 257.34528 
+Q 229.3956 257.34528 229.3956 250.69248 
+L 229.3956 212.77152 
+Q 229.3956 206.11872 217.1196 206.11872 
+L 42.8004 206.11872 
+Q 30.5244 206.11872 30.5244 212.77152 
+L 30.5244 250.69248 
+Q 30.5244 257.34528 42.8004 257.34528 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #f3f4f6; stroke: #cbd5e1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 392.6664 104.33088 
+L 579.2616 104.33088 
+Q 591.5376 104.33088 591.5376 97.67808 
+L 591.5376 59.75712 
+Q 591.5376 53.10432 579.2616 53.10432 
+L 392.6664 53.10432 
+Q 380.3904 53.10432 380.3904 59.75712 
+L 380.3904 97.67808 
+Q 380.3904 104.33088 392.6664 104.33088 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #dbeafe; stroke: #cbd5e1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 392.6664 180.83808 
+L 579.2616 180.83808 
+Q 591.5376 180.83808 591.5376 174.18528 
+L 591.5376 136.26432 
+Q 591.5376 129.61152 579.2616 129.61152 
+L 392.6664 129.61152 
+Q 380.3904 129.61152 380.3904 136.26432 
+L 380.3904 174.18528 
+Q 380.3904 180.83808 392.6664 180.83808 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #ccfbf1; stroke: #cbd5e1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 392.6664 257.34528 
+L 579.2616 257.34528 
+Q 591.5376 257.34528 591.5376 250.69248 
+L 591.5376 212.77152 
+Q 591.5376 206.11872 579.2616 206.11872 
+L 392.6664 206.11872 
+Q 380.3904 206.11872 380.3904 212.77152 
+L 380.3904 250.69248 
+Q 380.3904 257.34528 392.6664 257.34528 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #dcfce7; stroke: #cbd5e1; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 230.167608 78.7176 
+Q 304.892163 78.7176 378.05147 78.7176 
+" clip-path="url(#p2a832f5d52)" style="fill: none; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 373.25147 76.3176 
+L 378.05147 78.7176 
+L 373.25147 81.1176 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #2563eb; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 230.167608 155.2248 
+Q 304.892163 155.2248 378.05147 155.2248 
+" clip-path="url(#p2a832f5d52)" style="fill: none; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 373.25147 152.8248 
+L 378.05147 155.2248 
+L 373.25147 157.6248 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #2563eb; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 230.167608 231.732 
+Q 304.892163 231.732 378.05147 231.732 
+" clip-path="url(#p2a832f5d52)" style="fill: none; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 373.25147 229.332 
+L 378.05147 231.732 
+L 373.25147 234.132 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #2563eb; stroke: #2563eb; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 251.4924 283.95648 
+L 352.1556 283.95648 
+Q 364.4316 283.95648 364.4316 277.30368 
+L 364.4316 242.70912 
+Q 364.4316 236.05632 352.1556 236.05632 
+L 251.4924 236.05632 
+Q 239.2164 236.05632 239.2164 242.70912 
+L 239.2164 277.30368 
+Q 239.2164 283.95648 251.4924 283.95648 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #ffffff; stroke: #2563eb; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 484.866857 102.008873 
+Q 423.69109 194.615936 323.504921 238.618476 
+" clip-path="url(#p2a832f5d52)" style="fill: none; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 328.864829 238.885646 
+L 323.504921 238.618476 
+L 326.934602 234.490851 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 484.162215 177.718948 
+Q 403.124265 216.855359 317.552913 239.150589 
+" clip-path="url(#p2a832f5d52)" style="fill: none; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 322.802952 240.262839 
+L 317.552913 239.150589 
+L 321.592736 235.617908 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 484.061622 252.743692 
+Q 401.59507 226.537626 317.624661 239.498752 
+" clip-path="url(#p2a832f5d52)" style="fill: none; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 322.734596 241.138438 
+L 317.624661 239.498752 
+L 322.00237 236.394616 
+z
+" clip-path="url(#p2a832f5d52)" style="fill: #6b7280; stroke: #6b7280; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; text-anchor: start; fill: #1f2937" x="19.476" y="27.1584" transform="rotate(-0 19.476 27.1584)">研究不足与方案模块映射</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(102.96 70.434928)">领域适配不足</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(93.360938 81.197522)">SAM 自然图像先验</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(89.46 91.960116)">难识别眼底微小病灶</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(107.46 146.942128)">低质量图像</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(94.896563 157.704722)">低对比/模糊/过曝</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(89.46 168.467316)">破坏边界和细长结构</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(98.46 223.449328)">数据与效率瓶颈</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(87.678281 234.211922)">标注稀缺/类别不平衡</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(102.96 244.974516)">推理成本较高</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(448.374938 70.434928)">眼底专用 SAM 适配</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(416.226656 81.197522)">Adapter/LoRA + lesion-aware token</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(437.400563 91.960116)">融合血管/视盘/病灶先验</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(458.964 146.942128)">质量感知增强</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(436.639781 157.704722)">退化识别 + 结构保持增强</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(436.464 168.467316)">增强目标受分割损失约束</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(449.964 223.444406)">小病灶约束与蒸馏</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(437.347125 234.207)">Focal/Tversky/Boundary</text>
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(418.601813 244.979438)">prompt-aware medical distillation</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(281.824 256.78265)">联合目标</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Noto Sans SC', 'Microsoft YaHei', 'SimHei', 'DejaVu Sans', 'Arial', sans-serif; fill: #1f2937" transform="translate(237.214625 268.741088)">病灶保真 + 边界稳定 + 可部署</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2a832f5d52">
+   <rect x="7.2" y="7.2" width="613.8" height="332.64"/>
+  </clipPath>
+ </defs>
+</svg>

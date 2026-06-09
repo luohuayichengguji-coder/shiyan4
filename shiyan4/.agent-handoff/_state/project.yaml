@@ -1,0 +1,11 @@
+version: 1
+project: hj-5
+created_at: '2026-06-01T01:30:25+08:00'
+updated_at: '2026-06-01T10:34:44+08:00'
+last_resumed_at: '2026-06-01T08:58:07+08:00'
+current_phase: completed
+current_goal: 修复医学图像技术调研报告中图表箭头重叠、配色过浅和缩放后不易阅读问题
+summary: 已逐张检查报告使用的5张图，确认旧图存在箭头穿过文字、文字贴边、浅色配色缩放后不清晰等问题；已将 outputs/scripts/make_figures.py
+  改为基于Pillow的高分辨率图表生成脚本，重新生成5张PNG/PDF图，重建最终DOCX，并用Microsoft Word导出PDF、拆页生成13页白底PNG预览，重点检查第5、8、9、10、11页图表显示。
+next_step: 提交时继续使用 outputs/AI开发技术-实验4.1-医学图像技术调研报告.docx；如需检查修图效果，可查看 outputs/render_checks/docx_figfix_word/white_contact_sheet.png。
+blockers: []

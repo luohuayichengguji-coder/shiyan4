@@ -1,0 +1,6 @@
+﻿方向,代表方法,核心思想,适合本课题的价值,主要局限
+通用分割基础模型,SAM / SAM2,promptable segmentation；SAM2 引入 streaming memory 支持图像/视频。,提供可提示的基础 mask 生成器和交互式分割范式。,自然图像域；对低质量眼底和微小病灶需领域适配。
+医学 SAM 适配,MedSAM、Medical SAM Adapter、SAM-Med2D、Medical SAM 2、MedSAM2,医学数据微调、adapter/LoRA、prompt 策略、SAM2 医学跟踪化。,说明从自然到医学必须注入医学域知识。,多为通用医学目标，尚未充分解决 DR 小病灶和低质量问题。
+眼底 DR 病灶分割,HEDNet+cGAN、RTNet、GlanceSeg、LANet、DeepLabv3+、TP-DRSeg,边缘/对抗损失、病灶-血管关系、小病灶注意力、gaze/saliency prompt、文本先验。,提供 DR 专用结构和类别先验，可与 SAM 结合。,标注少、类别极不平衡；有些方法只针对 MA 或不够轻量。
+低质量医学/眼底增强,SAT-Net、AMIR、DiffCode、TAT、MedSR-Vision,结构感知增强、任务自适应路由、扩散/VQ 先验、超分与质量评估。,可改善模糊、低对比、过曝导致的病灶边界不清。,增强指标不一定等同于分割收益；可能改变病灶纹理需联合约束。
+SAM 蒸馏/轻量化,MobileSAM、EfficientSAM、TinySAM、EdgeSAM、SAM-Lightening、KD-SAM,轻量 encoder、masked image pretraining、prompt-in-loop distillation、Flash Attention、医学蒸馏。,降低推理成本，适合筛查/边缘部署。,轻量化可能损失微小病灶细节，需要小目标/边界蒸馏约束。

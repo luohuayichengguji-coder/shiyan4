@@ -1,0 +1,21 @@
+items:
+- decision_id: DEC-001
+  summary: 以任务指导文件作为最高优先级任务依据
+  rationale: 用户明确要求先读取并引用 AI技术-实验4.1-实验要求-医学图像技术调研.txt，且报告、PPT、过程记录和合规矩阵均需对齐其中实验目的、内容、步骤、要求和相关资料。
+  time: '2026-06-01T01:37:59+08:00'
+- decision_id: DEC-002
+  summary: 保留skills摘要与原始Markdown两套审批材料
+  rationale: 摘要便于老师快速审阅实际使用方式，source_md中的原始SKILL.md和workflow文件便于核验技能来源与内容完整性。
+  time: '2026-06-01T01:37:59+08:00'
+- decision_id: DEC-003
+  summary: 使用LibreOffice+PyMuPDF完成Word/PPT渲染检查
+  rationale: documents技能推荐的render_docx路径缺少pdf2image依赖，已采用当前hj环境可用工具链进行PDF与PNG渲染检查，确保最终docx和pptx可打开且版式可视化通过。
+  time: '2026-06-01T01:37:59+08:00'
+- decision_id: DEC-004
+  summary: 最终报告采用范例式课程实验报告结构
+  rationale: 用户明确要求模仿上次作业标准范例的目录结构和样式，因此新版报告优先贴近范例的封面、编号标题、阶段过程、问题记录、对比和心得结构，而非继续使用论文综述型摘要-背景-方法-结论结构。
+  time: '2026-06-01T09:36:22+08:00'
+- decision_id: DEC-005
+  summary: 图表交付改为新版PNG/PDF，旧SVG归档
+  rationale: 原SVG仍保留旧版错误布局，直接留在主图表目录容易被误打开；当前Pillow脚本稳定生成高分辨率PNG和PDF，报告嵌入PNG并已通过Word导出预览检查。
+  time: '2026-06-01T10:36:12+08:00'
